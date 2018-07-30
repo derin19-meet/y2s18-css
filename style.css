@@ -1,1 +1,14 @@
 body {background-color: #6d6a37; color: white;}
+
+
+a {color:red;}
+
+#important {background-color:violet;}
+
+.vegetarian {color:black;}
+.nonvegetarian {color:blue;}
+
+p#important {font-family: "Times New Roman", Times, serif;}
+
+div#important {font-size: large;}
+
